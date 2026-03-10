@@ -196,15 +196,6 @@ Edit these settings in `backend/app.py`:
 - Prediction time: ~500ms per image
 - Accuracy: Varies based on dataset quality and shot diversity
 
-## 🚀 Future Enhancements
-
-- [ ] Video support for real-time detection
-- [ ] Model accuracy metrics dashboard
-- [ ] Data augmentation for better training
-- [ ] Batch predictions
-- [ ] Model versioning and deployment
-- [ ] REST API documentation (Swagger)
-
 ## 📄 License
 
 This project is free to use and modify.
@@ -212,3 +203,4 @@ This project is free to use and modify.
 ## 👨‍💻 Author
 
 Built with ❤️ for cricket enthusiasts and AI learners!
+
