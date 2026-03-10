@@ -22,7 +22,6 @@ A simple yet effective AI-powered web application that identifies cricket shots 
 ```
 cricket/
 ├── archive/
-│   └── CricketCoachingDataSet/
 │       ├── 0. Cut Shot/
 │       ├── 1. Cover Drive/
 │       ├── 2. Straight Drive/
@@ -203,4 +202,5 @@ This project is free to use and modify.
 ## 👨‍💻 Author
 
 Built with ❤️ for cricket enthusiasts and AI learners!
+
 
